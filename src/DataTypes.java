@@ -42,5 +42,6 @@ public class DataTypes {
         double dr = rd / CDE; // Для получения добного результата, хотя бы одна переменная должна быть double
         System.out.println(dr);
         System.out.println("Изменение файла");
+        System.out.println("Изменение файла2");
     }
     }
